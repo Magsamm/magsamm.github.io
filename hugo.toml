@@ -17,7 +17,7 @@ style = "github-dark"
   info = "Aspiring developer!"
   description = "Magsamms's personal website"
   keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
+  avatarurl = "images/hackerman.png"
   #gravatar = "john.doe@example.com"
 
   faviconSVG = "/img/favicon.svg"
