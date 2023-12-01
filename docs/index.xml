@@ -2,31 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Magsamms&#39; blog</title>
-    <link>https://magsamm.github.io/</link>
+    <link>localhost/</link>
     <description>Recent content on Magsamms&#39; blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Jan 2023 01:15:29 +0100</lastBuildDate>
-    <atom:link href="https://magsamm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Dec 2023 09:54:41 +0100</lastBuildDate>
+    <atom:link href="localhost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first blog post!</title>
+      <link>localhost/posts/first/</link>
+      <pubDate>Fri, 01 Dec 2023 09:54:41 +0100</pubDate>
+      <guid>localhost/posts/first/</guid>
+      <description>Spent a few hours today getting my website set up. i got it set up, and then i had to spend 2h fixing it when i was experimenting&amp;hellip;. This is the way</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>localhost/about/</link>
+      <pubDate>Fri, 01 Dec 2023 09:50:59 +0100</pubDate>
+      <guid>localhost/about/</guid>
+      <description>Aspiring developer thats currently finishing up CS50x!</description>
+    </item>
     <item>
       <title>temas</title>
-      <link>https://magsamm.github.io/categoria/temas/</link>
+      <link>localhost/categoria/temas/</link>
       <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
-      <guid>https://magsamm.github.io/categoria/temas/</guid>
+      <guid>localhost/categoria/temas/</guid>
       <description></description>
     </item>
     <item>
       <title>sintaxe</title>
-      <link>https://magsamm.github.io/categoria/sintaxe/</link>
+      <link>localhost/categoria/sintaxe/</link>
       <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
-      <guid>https://magsamm.github.io/categoria/sintaxe/</guid>
+      <guid>localhost/categoria/sintaxe/</guid>
       <description></description>
     </item>
     <item>
       <title>Códigos curtos</title>
-      <link>https://magsamm.github.io/tags/shortcodes/_index.pt-br/</link>
+      <link>localhost/tags/shortcodes/_index.pt-br/</link>
       <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
-      <guid>https://magsamm.github.io/tags/shortcodes/_index.pt-br/</guid>
+      <guid>localhost/tags/shortcodes/_index.pt-br/</guid>
       <description></description>
     </item>
   </channel>
