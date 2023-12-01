@@ -1,4 +1,4 @@
-baseurl = "localhost"
+baseurl = "https://magsamm.github.io/"
 title = "Magsamms' blog"
 theme = "hugo-coder"
 languagecode = "en"
