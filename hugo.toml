@@ -23,7 +23,7 @@ style = "github-dark"
   favicon_16 = "/img/favicon-16x16.png"
 
   since = 2022
-
+  disableComments = true
   enableTwemoji = true
 
   colorScheme = "auto"
