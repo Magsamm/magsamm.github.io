@@ -6,8 +6,15 @@
     <description>Recent content on Magsamms&#39; blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Dec 2023 09:54:41 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 15:29:49 +0200</lastBuildDate>
     <atom:link href="https://magsamm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://magsamm.github.io/posts/2nd-post/</link>
+      <pubDate>Tue, 30 Apr 2024 15:29:49 +0200</pubDate>
+      <guid>https://magsamm.github.io/posts/2nd-post/</guid>
+      <description>Finished CS50x. Just started on The Odin project and really enjoying it!</description>
+    </item>
     <item>
       <title>My first blog post!</title>
       <link>https://magsamm.github.io/posts/first/</link>
