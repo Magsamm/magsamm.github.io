@@ -11,7 +11,7 @@ paginate = 20
 style = "github-dark"
 
 [params]
-  author = "Magnus AKA Magsamm"
+  author = "Magnus"
   info = "Aspiring developer!"
   description = "EdgelessMagsan's personal website"
   keywords = "blog,developer,personal"
