@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>edgelessmagsan&#39; blog</title>
+    <title>edgpelessmagsan&#39; blog</title>
     <link>https://edgelessmagsan.github.io/</link>
-    <description>Recent content on edgelessmagsan&#39; blog</description>
+    <description>Recent content on edgpelessmagsan&#39; blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 30 Apr 2024 15:29:49 +0200</lastBuildDate>
@@ -42,14 +42,6 @@
       <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
       <guid>https://edgelessmagsan.github.io/tags/shortcodes/_index.pt-br/</guid>
       <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://edgelessmagsan.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://edgelessmagsan.github.io/about/</guid>
-      <description>q+++ title = &amp;lsquo;About&amp;rsquo; date = 2023-12-01T09:50:59+01:00 draft = false +++
-Aspiring developer thats currently working on The Odin Project: https://www.theodinproject.com/!</description>
     </item>
   </channel>
 </rss>
