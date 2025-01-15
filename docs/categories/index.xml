@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Magsamms&#39; blog</title>
-    <link>https://magsamm.github.io/categories/</link>
-    <description>Recent content in Categories on Magsamms&#39; blog</description>
+    <title>Categories on edgelessmagsan&#39; blog</title>
+    <link>https://edgelessmagsan.github.io/categories/</link>
+    <description>Recent content in Categories on edgelessmagsan&#39; blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 04 Jan 2023 23:21:18 +0100</lastBuildDate>
-    <atom:link href="https://magsamm.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://edgelessmagsan.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>temas</title>
-      <link>https://magsamm.github.io/categoria/temas/</link>
+      <link>https://edgelessmagsan.github.io/categoria/temas/</link>
       <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
-      <guid>https://magsamm.github.io/categoria/temas/</guid>
+      <guid>https://edgelessmagsan.github.io/categoria/temas/</guid>
       <description></description>
     </item>
     <item>
       <title>sintaxe</title>
-      <link>https://magsamm.github.io/categoria/sintaxe/</link>
+      <link>https://edgelessmagsan.github.io/categoria/sintaxe/</link>
       <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
-      <guid>https://magsamm.github.io/categoria/sintaxe/</guid>
+      <guid>https://edgelessmagsan.github.io/categoria/sintaxe/</guid>
       <description></description>
     </item>
   </channel>

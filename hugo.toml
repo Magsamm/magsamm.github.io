@@ -1,5 +1,5 @@
-baseurl = "https://magsamm.github.io/"
-title = "Magsamms' blog"
+baseurl = "https://edgelessmagsan.github.io/"
+title = "edgelessmagsan' blog"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Magsamms&#39; blog</title>
-    <link>https://magsamm.github.io/tags/</link>
-    <description>Recent content in Tags on Magsamms&#39; blog</description>
+    <title>Tags on edgelessmagsan&#39; blog</title>
+    <link>https://edgelessmagsan.github.io/tags/</link>
+    <description>Recent content in Tags on edgelessmagsan&#39; blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 04 Jan 2023 11:51:36 +0100</lastBuildDate>
-    <atom:link href="https://magsamm.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://edgelessmagsan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Códigos curtos</title>
-      <link>https://magsamm.github.io/tags/shortcodes/_index.pt-br/</link>
+      <link>https://edgelessmagsan.github.io/tags/shortcodes/_index.pt-br/</link>
       <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
-      <guid>https://magsamm.github.io/tags/shortcodes/_index.pt-br/</guid>
+      <guid>https://edgelessmagsan.github.io/tags/shortcodes/_index.pt-br/</guid>
       <description></description>
     </item>
   </channel>
