@@ -13,7 +13,7 @@ style = "github-dark"
 [params]
   author = "Magnus AKA Magsamm"
   info = "Aspiring developer!"
-  description = "Magsamms's personal website"
+  description = "EdgelessMagsan's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "images/hackerman.png"
   #gravatar = "john.doe@example.com"
@@ -44,7 +44,7 @@ style = "github-dark"
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 1
-  url = "https://github.com/Magsamm"
+  url = "https://github.com/edgelessmagsan"
 
 # Menu links
 [[menu.main]]
